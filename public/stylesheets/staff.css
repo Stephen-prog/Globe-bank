@@ -118,7 +118,7 @@ dd{
 
 .errors {
     display: inline;
-    border: 2px solid red;
+    border: 1px solid black;
     color: red;
     padding: 1em;
     margin-bottom: 1em;
